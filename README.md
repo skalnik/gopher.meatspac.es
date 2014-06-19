@@ -22,9 +22,9 @@ For a quick reference, this is what you can set up in your gophermap file for va
 
 For linking to an external URL, you would do something like:
 
-hA link to Google<TAB>/URL:http://google.com/
+`hA link to Google<TAB>/URL:http://google.com/`
 
-where <TAB> is the actual hard tab.
+where `<TAB>` is the actual hard tab.
 
 ## Structuring your content
 
